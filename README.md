@@ -8,7 +8,7 @@ GitHub: https://github.com/adityaureddy-ctrl
 ---
 
 ## About me
-I’m an aspiring Business Analyst with hands-on experience in SQL-based e-commerce analytics, Excel dashboarding, and financial performance analysis. I combine a business background (BBA) and professional experience at TCS with practical analytics projects to deliver data-driven insights that improve operations and revenue.
+I’m an aspiring Business Analyst with hands-on experience applying data analysis and reporting to operations-focused use cases. Through SQL and Excel-based projects, I analyze order and process data, build KPI dashboards, and identify inefficiencies that impact turnaround time, productivity, and cost. I’m keen to apply these business analysis skills in warehouse, logistics, and supply chain operations to support data-driven decision-making and continuous improvement.
 
 ---
 
